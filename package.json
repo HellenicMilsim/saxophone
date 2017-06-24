@@ -1,0 +1,11 @@
+{
+  "name": "post-featured",
+  "version": "1.0.0",
+  "description": "Post a Discourse topic as a Jekyll page",
+  "main": "index.js",
+  "author": "rath",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
